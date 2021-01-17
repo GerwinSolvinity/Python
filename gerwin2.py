@@ -1,2 +1,1 @@
-print 'hello world2'
-print "this is line2""
+import this
